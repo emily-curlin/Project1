@@ -2,7 +2,7 @@
 
 An Analysis of the Happiness Across the World from 2015-2022
 
-Contributors: @Ruchi Chandrawal, @Emily Curlin, @Lauren Phelps, @Tye Smith, @Steve Tuttle, @Tyler Williams
+Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tuttle, Tyler Williams
 
 Analysis Questions:
 _Which countries and regions of the world have the happiest people?_
@@ -27,7 +27,7 @@ Data Sets Used:
 world-happiness-report-2015-2022-cleaned.csv
 
 Presentation
-World Happiness Project .pptx
+[World Happiness Project .pptx](https://github.com/emily-curlin/Project1/files/11403075/World.Happiness.Project.pptx)
 
 Tasks Completed:
 Tye: Analysis of happiness rank by region, statistical analysis of region by happiness rank, 
@@ -45,10 +45,6 @@ The disparity between the scores of highest and lowest ranking countries is sign
 
 Linear regresson analysis indicates a country's GDP, a measure of economy, is the MOST strongly correlated with happiness score, followed closely by health.  Overall, genorosity is likely to be predictive of a country's happiness score followed by trust, with consideraton of goverment corruption.  
 
-
-
-
-t
 
 
 
