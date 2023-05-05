@@ -5,9 +5,9 @@
 Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tuttle, Tyler Williams
 
 Analysis Questions:
-_Which countries and regions of the world have the happiest people?_
-_Which factors have the most meaningful impact on happiness across all countries/all regions?_
-_Which factors have the least impact on happiness across all countries/all regions?_
+Which countries and regions of the world have the happiest people?
+Which factors have the most meaningful impact on happiness across all countries/all regions?
+Which factors have the least impact on happiness across all countries/all regions?
 
 Summary: 
 Factors considered in the analysis included a country’s measure of: 
