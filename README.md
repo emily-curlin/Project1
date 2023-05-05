@@ -1,15 +1,15 @@
 #Project1
 
-**An Analysis of the Happiness Across the World from 2015-2022**
+An Analysis of the Happiness Across the World from 2015-2022
 
-##Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tuttle, Tyler Williams
+Contributors: @Ruchi Chandrawal, @Emily Curlin, @Lauren Phelps, @Tye Smith, @Steve Tuttle, @Tyler Williams
 
-###Analysis Questions:
+Analysis Questions:
 _Which countries and regions of the world have the happiest people?_
 _Which factors have the most meaningful impact on happiness across all countries/all regions?_
 _Which factors have the least impact on happiness across all countries/all regions?_
 
-###Summary: 
+Summary: 
 Factors considered in the analysis included a country’s measure of: 
 Economic stability (GDP per capita)
 Family (Social Support)
@@ -23,20 +23,20 @@ The analysis starts with looking on a regional scale, first assessing the happin
 The impact of various metrics by region are then evaluated and visually displayed. 
 Finally, linear regression analysis is conducted to identify which of the 6 predictors of happiness are most strongly correlated with happiness worldwide. 
 
-###Data Sets Used:
+Data Sets Used:
 world-happiness-report-2015-2022-cleaned.csv
 
-###Presentation
+Presentation
 World Happiness Project .pptx
 
-###Tasks Completed:
+Tasks Completed:
 Tye: Analysis of happiness rank by region, statistical analysis of region by happiness rank, 
 Ruchi: Analysis of happiness score by region
 Lauren: Analyzing happiness scores of highest and lowest ranking countries by year
 Steve: Comparison of countries with highest and lowest happiness score, year-over-year
 Emily: Linear regression analysis analyzing correlation between happiness score and various factors influencing happiness.
 
-###Findings and conclusions:
+Findings and conclusions:
 The happiest regions of the world from 2015 to 2022 include Australia and New Zealand, North America, while the least happy regions include South Asia, Southern Asia, and Sub-Saharan Africa. 
 
 The happiest countries in the world from 2015 to 2022 include Finland, Norway, Denmark, and Switzerland. 
