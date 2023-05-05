@@ -1,6 +1,6 @@
 #Project1
 
-An Analysis of the Happiness Across the World from 2015-2022
+*An Analysis of the Happiness Across the World from 2015-2022*
 
 Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tuttle, Tyler Williams
 
