@@ -1,31 +1,25 @@
 # Project1
 
-Requirements
+World Happiness
 
-Completed Analysis Uploaded to GitHub (20 points)
+Summary:
 
-Final data analysis contains ample and complete information in README file (10 points)
-Final repository is acceptable for professional quality presentation (10 points)
-Visualizations (20 points)
+Analysis Questions: 
 
-6–8 visualizations of data (at least two per question) (10 points)
-Clear and accurate labeling of images (5 points)
-Visualizations supported with ample and precise explanation (5 points)
-Analysis and Conclusion (20 points)
+Which countries  and regions of the world have the happiest people?
+Which factors have the most meaningful impact on happiness?
+Which factors have the least impact on happiness?
 
-Write-up summarizes major findings and implications at a professional level (5 points)
-Each question in the project proposal is answered with precise descriptions and findings (5 points)
-Findings are strongly supported with numbers and visualizations (5 points)
-Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis) (5 points)
-Group Presentation (20 points)
+Data Sets Used:
 
-All group members spoke during the presentation (5 points)
-Group was well prepared (5 points)
-Presentation is relevant to material (5 points)
-Presentation maintains audience interest (5 points)
-Slide Deck (20 points)
 
-Slides are visually clean and professional (5 points)
-Slides are relevant to material (5 points)
-Slides effectively demonstrate the project (5 points)
-Slides are clear and maintain audience interest (5 points)
+
+
+Tye: Analysis of happiness rank by region, statistical analysis of region by happiness rank, 
+Ruchi: Analysis of happiness score by region
+Lauren: Analyzing happiness scores of highest and lowest ranking countries by year
+Steve: Comparison of countries with highest and lowest happiness score, year-over-year
+Emily: Linear regression analysis analyzing correlation between happiness score and various factors influencing happiness.
+
+
+
