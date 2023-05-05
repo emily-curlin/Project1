@@ -24,7 +24,7 @@ The impact of various metrics by region are then evaluated and visually displaye
 Finally, linear regression analysis is conducted to identify which of the 6 predictors of happiness are most strongly correlated with happiness worldwide. 
 
 Data Sets Used:
-world-happiness-report-2015-2022-cleaned.csv
+[world-happiness-report-2015-2022-cleaned.csv](https://github.com/emily-curlin/Project1/files/11403099/world-happiness-report-2015-2022-cleaned.csv)
 
 Presentation
 [World Happiness Project .pptx](https://github.com/emily-curlin/Project1/files/11403075/World.Happiness.Project.pptx)
